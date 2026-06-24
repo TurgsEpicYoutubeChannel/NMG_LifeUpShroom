@@ -1,4 +1,4 @@
-#include "NMG_LifeUpShroom.h"
+#include "NMG_PlayerLeftReplacements.h"
 
 /*****************************************************************************************************************/
 /* 1-Up replacements                                                                                             */
