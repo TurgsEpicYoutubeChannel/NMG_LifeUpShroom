@@ -26,8 +26,4 @@ namespace {
 	kmCall(0x8032561C, createBenefitItemLifeUp);
 	kmWrite32(0x80325620, 0x7C7F1B78); // r31 = BenefitItemLifeUp*
 	kmWrite32(0x80325624, 0x4800002C); // skip garbage
-
-
-	// YoshiFruit grants a Life-Up instead
-	kmCall(0x8041793C, changePlayerItemLifeUp);
 }
